@@ -1,0 +1,31 @@
+import { Model } from 'mongoose';
+import { GraphTotalCountDTO } from './order.model';
+export declare class OrderService {
+    private readonly orderModel;
+    constructor(orderModel: Model<any>);
+    getAllOrderForUser(userId: string, page: number, limit: number): Promise<Array<any>>;
+    countAllOrderForUser(userId: string): Promise<number>;
+    getOrderDetailForUser(userId: string, orderId: string): Promise<any>;
+    getOrderDetailForCancel(userId: string, orderId: string): Promise<any>;
+    createOrder(orderData: any): Promise<any>;
+    orderCancelByUser(userId: string, orderId: string, amountRefund: number): Promise<any>;
+    updateOrderRatedByUser(userId: string, orderId: string): Promise<any>;
+    getAllDeliveredOrderForDeliveryBoy(deliveryBoyId: string, page: number, limit: number): Promise<Array<any>>;
+    countAllDeliveredOrderForDeliveryBoy(deliveryBoyId: string): Promise<number>;
+    getOrderDetailForBoy(boyId: string, orderId: string): Promise<any>;
+    getAllAssginedOrderForDeliveryBoy(deliveryBoyId: string, page: number, limit: number): Promise<Array<any>>;
+    countAllAssginedOrderForDeliveryBoy(deliveryBoyId: string): Promise<number>;
+    orderAcceptByDelivery(orderId: string): Promise<any>;
+    orderRejectedByDelivery(orderId: string, deliveryBoyId: string, deliveryBoyName: string): Promise<any>;
+    orderStatusUpdateByDelivery(orderId: string, orderStatus: string, paymentStatus?: string): Promise<any>;
+    getAllOrder(orderFilter: any, page: number, limit: number): Promise<Array<any>>;
+    countAllOrder(orderFilter: any): Promise<number>;
+    getOrderDetail(orderId: string): Promise<any>;
+    getOrderDetailByToken(orderId: string, token: string): Promise<any>;
+    orderStatusUpdate(orderId: string, orderStatus: string): Promise<any>;
+    orderAssignToDelivery(orderId: string, orderAssignData: any): Promise<any>;
+    getOrderStatusTypeList(): Promise<{}>;
+    orderCancelByAdmin(orderId: string, amountRefund: number): Promise<any>;
+    getTotalOrderAmdSum(): Promise<GraphTotalCountDTO>;
+    getOrdersPriceInLast7Days(): Promise<any>;
+}
