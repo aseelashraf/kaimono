@@ -40,19 +40,28 @@ async function bootstrap() {
 		next();
 	});
 
-	if (process.env.NODE_ENV === 'production' && process.env.SENTRY_URL) sentry.init({ dsn: process.env.SENTRY_URL });
+	// if (process.env.NODE_ENV === 'production' && process.env.SENTRY_URL) sentry.init({ dsn: process.env.SENTRY_URL });
+	sentry.init({ dsn: process.env.SENTRY_URL });
 
-	if (process.env.PREDIFINED && process.env.PREDIFINED == "true") {
-		let options = new DocumentBuilder().setTitle('Groceries App').setBasePath("/").setVersion('v1').addBearerAuth().setSchemes('https', 'http').build();
+	// if (process.env.PREDIFINED && process.env.PREDIFINED == "true") {
+	// 	let options = new DocumentBuilder().setTitle('Groceries App').setBasePath("/").setVersion('v1').addBearerAuth().setSchemes('https', 'http').build();
+
+	// 	const document = SwaggerModule.createDocument(app, options, {
+	// 		include: [AddressModule, BannerModule, BusinessModule, CategoryModule, CartModule, CouponsModule, ChatModule, DealModule, DeliveryBoyRatingsModule, FavouritesModule, LanguageModule, NotificationsModule, OrderModule,
+	// 			PageModule, ProductModule, ProductOutOfStockModule, RatingModule, SettingModule, SubCategoryModule, UsersModule, WalletModule]
+	// 	});
+	// 	SwaggerModule.setup('/explorer', app, document);
+	// }
+
+	let options = new DocumentBuilder().setTitle('Groceries App').setBasePath("/").setVersion('v1').addBearerAuth().setSchemes('https', 'http').build();
 
 		const document = SwaggerModule.createDocument(app, options, {
 			include: [AddressModule, BannerModule, BusinessModule, CategoryModule, CartModule, CouponsModule, ChatModule, DealModule, DeliveryBoyRatingsModule, FavouritesModule, LanguageModule, NotificationsModule, OrderModule,
 				PageModule, ProductModule, ProductOutOfStockModule, RatingModule, SettingModule, SubCategoryModule, UsersModule, WalletModule]
 		});
 		SwaggerModule.setup('/explorer', app, document);
-	}
 
-	const port = process.env.PORT || 3001;
+	const port = 3005;
 	await app.listen(port);
 	console.log(`http://localhost:${port}/explorer/#/`)
 }

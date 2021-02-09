@@ -1310,99 +1310,99 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
       "../src/address/address.model.ts": {
-        "version": "d7eba0677be982a711b895a97031610d0a5b7a080dfc7c01176cc07c16f41143",
+        "version": "777d0d7ec236a3ea56ee16db92b05a557638f1516476cecc0cee20b8d8a7d362",
         "signature": "45f889ce59d3bd2d2cbcea433e3263e5b4e7ffa254d26e60bd2f31c98d66d0d1"
       },
       "../src/banner/banner.model.ts": {
-        "version": "fe79560d015be9e92c93e9b29ef35e941a5f0a71e5cb14905620bba32c4ccab3",
+        "version": "b494d1abf0958567182a394e47bcb9ca992f63eb868631c1ccf04cbd1ecdbd9f",
         "signature": "b45d39e7127f6e2307298541d11a2b091c3009b8b525a11b8bc0ecb49bb112cf"
       },
       "../src/business/business.model.ts": {
-        "version": "c17916da23d00e1f31fcb662881315ed193e70959d70bb2813822f6f148bb07e",
+        "version": "5494d65cad1485e41ccf573bfa9aabae14fae4fdcaf82aba9b7c0016663f5cff",
         "signature": "2e621832b99b91671ffce3588bbaf7ab8f6aa8371a1b931b9671b4f13cef222a"
       },
       "../src/coupons/coupons.model.ts": {
-        "version": "ea768a2b5bc1a194b414ed835a7e5f4a0344bd03b12045e8106784a2c9b9bb67",
+        "version": "2726ef75121a6808f8ec6b24c39b1552446c875c80ecbcbec44ab50ad93e8bb7",
         "signature": "634cb5060a659bf68aef4cf78442535bfd577a2d1416972ad413f137656a1df6"
       },
       "../src/utils/app.model.ts": {
-        "version": "d4b18cff6638e3958ce8d17b07dceb280789281246973416bd0a83b1c0c35bcb",
+        "version": "c001108a49fa2de805a631002c6c9560d173419539426784f9ad46ddfc7ee6af",
         "signature": "5b1a06798c3c8b4074108ddb328d68e86030913ac2940ba1c7c7efcf3c6772bd"
       },
       "../src/products/products.model.ts": {
-        "version": "77370cd9673568c2185471d7b6a26e4f6154eda435077f5bd0b564aef08e69e2",
+        "version": "0700952cfee70691fe5af7f247df53e151e7ead08c53adc061905cd754201fae",
         "signature": "9498da3834d987b587634664419255210595f30cdf2ee5d32f1c2add42a21a7f"
       },
       "../src/cart/cart.model.ts": {
-        "version": "418ff768b6b51c4ffa54bf22bab30862fcc2da177b2bf2ed69823df8d6e01c99",
+        "version": "26232a6e370c4f5c487ddc83083e2fbd867764ce8f844f2ceeb987a88bbe1531",
         "signature": "39c6d267d5b1d9b820c7ff9337d3735acec6bc5137d5f2ea2a8beac22237f062"
       },
       "../src/categories/categories.model.ts": {
-        "version": "eeaf4b2ea098e350d10912bfed5590ab45643f15370b573c83f3c5e7d3798cfc",
+        "version": "d5c1743780b9673b91db3eb3a480f2bbf738b3af672c0532d58280e31e830200",
         "signature": "56de69224ce29d9fdf51b150c47cb72cd9c50211e1e085453a318b6a113a7493"
       },
       "../src/chat/chat.model.ts": {
-        "version": "7542a41ff83dffebecdc5f1f0c3a9c2a5231a3274815f40041dce4eee4ff27e2",
+        "version": "5b4d0541443a982c3f39920aa55b6d76189f247a71aa029a0b1506c57e0270f2",
         "signature": "00bd6b2c2f62ff4531109a65f4f5ab16c93a3eaa013fa000f96f69be9b9654d5"
       },
       "../src/deals/deals.model.ts": {
-        "version": "c80934766276f6dcdaddabe3d43d31c78268083b403dc9c11bb40e0c8f7155fb",
+        "version": "f44aae3a1f492054aaf4d8a38c535cddcf7de8616d9e0b3dced9486d9764196c",
         "signature": "a92571cb72666608eccab0a04b04c5c5f718d5734eb215d1987507663094a938"
       },
       "../src/delivery-boy-ratings/delivery-boy-ratings.model.ts": {
-        "version": "9368c6000de04529aa74a43526aadde17886fb65df77d707c2cfae340a87aed7",
+        "version": "8644341251647efc0c08d20a4a3861d100b4a3ad3cf1c915ec9fa58eb5493b1a",
         "signature": "8f573d0791334a2f8327985819f271c8f2ba63581d6e40f90afbe075b41ae037"
       },
       "../src/favourites/favourites.model.ts": {
-        "version": "ae2898231d78d943a51a305d00a6eaab0777d90daa614f55aed6c129ddd34e5a",
+        "version": "34e4ae18fe7e5c3676a038c89e9018692d0c4c20b98c1481dd581bf62ddc4694",
         "signature": "8393cdd9eea91c423ffb63aec15e57937602e0b112521af49927b39b8a0381a8"
       },
       "../src/language/language.model.ts": {
-        "version": "dc12c1cf60149e162a77cf16fe347570f6c19ba6914b8fca93e88ae84d980338",
+        "version": "a5772ff1117bda0a867ab07ff9c65f2828705f7814534f88ca02a7e8c5673608",
         "signature": "50aeaefdaad7fdc663c84ee71c3d1227a95ca3ece99855f7bb2bcb13f4ade69a"
       },
       "../src/notifications/notifications.model.ts": {
-        "version": "eec6f061b2844929ab88add92b29b96be655d62508e20de72af78a7b89c1fcb2",
+        "version": "ffa8665650628e9d016b881a9f20ccd57d1211752dcac5e43f299f5d9ce00457",
         "signature": "b433b9858e3a7ba98b2f3aeaa92d5932371c0b08b23d2a08e92317638a2066e6"
       },
       "../src/settings/settings.model.ts": {
-        "version": "44acf2f3f9b6a173881db740ae42aeaa628f58dbe5a6dc7b9f0b4a3b784e940c",
+        "version": "6c41506d991c9dc5b5579c7e0d2eb353edf6701a253b5ed7e9b1e47511395a16",
         "signature": "9c1d7769122a9d80615622d36873345f2520908d03a58729aab301510b851828"
       },
       "../src/order/order.model.ts": {
-        "version": "4e5b5a80f8fd904a5cc45eef685afd422515c68ecb334e44c97daf41cc4778f4",
+        "version": "8df7f9a06b70617814d3c22ede84e3d888c562a56067d02c7e9a3f57244b488b",
         "signature": "1432894984a4b7e39c5f8c4b77abb0c305a31db2805ce5a965533dd845cf5182"
       },
       "../src/pages/pages.model.ts": {
-        "version": "f78c2b932e5d85ce65e559ac236fc477dd0e09e17550f88f518271f538c1856b",
+        "version": "4c4be5aa8d83901a9d9deee697516558dfb7f80414014f23e8af3eacc593f438",
         "signature": "4a6a0d9a9cb897cc51eaa53cbde8f27bd74bc2bd975644e2e61eddaeec1453e4"
       },
       "../src/product-out-of-stock/product-out-of-stock.model.ts": {
-        "version": "1bd0287668e9f11715a752a9d358fb2917f27e82f5bea37452c5e26ec458c8a5",
+        "version": "64919792436dbe1b8563171a135c1bd175313d98a5ca6333352320e725faee72",
         "signature": "5c63602a642711694b9bbf95c31f373f69cc5b4d0f6e72dc1fa35ce090523b61"
       },
       "../src/rating/rating.model.ts": {
-        "version": "cac939bc7120a0e9bd53f779ac7abc14dd0c2287f5b97a0c28cf55005ec7850d",
+        "version": "66f77728535bdfab1a21d7c902debdea2f6e7cca37834c5433a85d8d17d1c9ab",
         "signature": "185f421844bb39c1f7df5f38100be4510ab0afe6238164502e50cbd945877b3a"
       },
       "../src/sequence/sequence.model.ts": {
-        "version": "e5298d2dc491e47998758e307437275c390862ecbeca87ab6b8d8d67998f6cdc",
+        "version": "53038e5530197396b940f4555d764a431951d76623cafc52bfc9ff7cf27e70f7",
         "signature": "85a763757b8b5413dcfde4edf73ce98fb6fc6c7386f911859513e920c5928779"
       },
       "../src/sub-categories/sub-categories.model.ts": {
-        "version": "f109d1f5a5e3b076ab728a341f21667c4e24a96da60009f420963fa1346aae79",
+        "version": "1747740d7ad75bde73023f936ffdd70f687ec5cbe76c7c9b60b587d06097bc50",
         "signature": "fbfa7e5fe9989a5fd5cab2792d72fdaf9489484b4f2f0634c8c24b7b9e519e2a"
       },
       "../src/users/users.model.ts": {
-        "version": "c9ddd81eda8408a69f66627b782cea8616298129d02585d1d17676e4d119e24c",
+        "version": "1e3e9bf4508d824efd36640e9b403ee17c699f4c87695133c0eaba40fe58b110",
         "signature": "988ed008635fefbbe4cd32bbbb889e20d2672b9dcda31f6593b842fbe5f200a6"
       },
       "../src/wallet/wallet.model.ts": {
-        "version": "2245fe9f484c8beed85e001e43478d2aea67f40402739522d2ce4c3ec5f465c7",
+        "version": "300aa4048874a9cb92aec3d55985926a63b402a4a2c958705628a8b14c58af4a",
         "signature": "6ddc2296a73ec13fd9190387490620194f2c2393c2130c2d00702f649ce031fb"
       },
       "../mongodb-seeding.ts": {
-        "version": "b3cb74caa39baa190180862cf3afd87c710d4f6219e5acc3b01c9cb6a034d8ee",
+        "version": "8898a7668d4c4e2d1fb0732d22b63d0008f8735d1eeeef03353c3d7a7f6f41c6",
         "signature": "4476c145d427d5eb40325fd89c67cb0bdecc197d469c6a05a16745a80aa278c7"
       },
       "../node_modules/geolib/es/types.d.ts": {
@@ -1574,7 +1574,7 @@
         "signature": "bbb1af5eebf2d0de7733dfc430f9a40af40cc33a763ea804d95f9d49e340fd7f"
       },
       "../src/utils/util.service.ts": {
-        "version": "465fc7267bf2d3d144b1b92002ec7933ae7c384d2086e097aad43abf43f5f203",
+        "version": "01d075152c2b6c008e6724db22b4633451279e9b9a11bf4ba92a4d02da9bfd5b",
         "signature": "9ffbe412a8718c87658cfc537c3b45e2979874a45fab89eda07ddd2491779c7e"
       },
       "../node_modules/@nestjs/mongoose/dist/common/mongoose.decorators.d.ts": {
@@ -1618,11 +1618,11 @@
         "signature": "8f1241f5d9f0d3d72117768b3c974e462840fbd85026fb66685078945404cf2f"
       },
       "../src/language/language.service.ts": {
-        "version": "56174aca777906aa504d6698833adf75504c8c686f14b8ba23ac4750796a8ff0",
+        "version": "f3cde29dff98c86dc8baee88aed9400a0f4c2997128190079691d1483869b460",
         "signature": "d1a529d679423b540bd67e26d84f55fccf37dd6e8a4b7b55bf78b8b542acc106"
       },
       "../src/app.controller.ts": {
-        "version": "e62c2d68337997cd94f0f71f0ecc49ff6ee4f6ab8503d5ad0c6eaabfa8a21f5e",
+        "version": "ab7c60710513d6bad7bb278b709e7387d4a9b89bd5466ee57b5658b8bf673f01",
         "signature": "d5c68cf1e741aaf3c370e5076624d8aebf28bd5d944fd91aba0d7868041ae20a"
       },
       "../node_modules/@nestjs/websockets/adapters/ws-adapter.d.ts": {
@@ -1730,11 +1730,11 @@
         "signature": "17868dee2559ec6f6b6f5c996cdf22e9b17da693d8c88ee4635a3a28d8264c61"
       },
       "../src/chat/chat.service.ts": {
-        "version": "2d6041a889fcffcb60e52b8430106b685f319e2c3f31e9205729da32c2d3e8dc",
+        "version": "ab0279625aac739c822b71657ba44ad8442b71d3f080ca5ff25bb345c9eb4837",
         "signature": "9496932c416c6cd4e498addacdb361fecba605a7163c014a91f0bd99b9ec2eb4"
       },
       "../src/app.gateway.ts": {
-        "version": "9925766e9f272d5f0a2c771ef69892ce6e4a2a2c68f3f2872edb8696f52f23f4",
+        "version": "8bccd3c7a5528772ddbf3eb2a547c9f7684ebace38a3e0892f22509959cd5ff0",
         "signature": "97619f10868956afc1cc26048300fc61c8c2e003e959c043c9731c331824e112"
       },
       "../node_modules/@nestjs/core/adapters/http-adapter.d.ts": {
@@ -1910,11 +1910,11 @@
         "signature": "18b9a9702d2fc7d3766b0c8124133c761ad25a9d767925005777eb2c2cd8aeba"
       },
       "../src/utils/auth.service.ts": {
-        "version": "ceeaabc75e3d042f7cfb613c7e54a5642a1f8656e1595cb3aeccc7efb6f5d4b8",
+        "version": "08345c9d8f93a5d05e62bab3be0bc51edabc7b4d25897c2182c107cf16b60f13",
         "signature": "53950f6bcf4ed18e5b4caacceda2a8f755a440d78af75e1af42858e81d6bb029"
       },
       "../src/users/users.service.ts": {
-        "version": "a0436675463a14b9cb93147d4518b903b9ebbd54b7ef3b4b192e6096e3ee1ec7",
+        "version": "c05447428c917f37fe881635f1230bae6873ed3ec83bfb6ac1b1e4264f80eed2",
         "signature": "5d1a516838808b7e18ec2567742d4f898231a51e9d6eafa00e3c7d36f0c01940"
       },
       "../node_modules/@nestjs/passport/dist/abstract.strategy.d.ts": {
@@ -1998,7 +1998,7 @@
         "signature": "e2c3c3ca3818d610599392a9431e60ec021c5d59262ecd616538484990f6e331"
       },
       "../src/utils/upload.service.ts": {
-        "version": "9d695455658754af58bdbbe5d625da3e348b0e1c1a9acbc162cabeeb2c89ab43",
+        "version": "2fc515292f5817b8e53a284b7f7d781537bd9088f8591348ef49ba571ea14c99",
         "signature": "1a8fc5686e54cbb01982d50901f0a364afee310da2dfec956daef636ec908c91"
       },
       "../node_modules/@types/nodemailer/lib/dkim/index.d.ts": {
@@ -2058,79 +2058,79 @@
         "signature": "7c9ad24b7763a35bc2b94f495ee80a4f08f5d7f6fa677526c9931af90fdf6da5"
       },
       "../src/utils/email.service.ts": {
-        "version": "c827b1ffb8e8c60de06e96a89fe2ecd49e717296bbcd66ed6adc482266fd9684",
+        "version": "502cbf718aa8f77e7e1fb83a89c1a7009e7cc5a4114fd50e0064b7a0348e9ad9",
         "signature": "1752768fa85c7964b0805723c0be3b9306a41334cfde993d7f4166d8c4353f52"
       },
       "../src/utils/jwt.strategy.ts": {
-        "version": "d5e8a164d0e1a2b5c85984c06596f2a7c867279f1cd1076a55d2422f884a088d",
+        "version": "d0fe88c40952610264c91f1e1c72234c9dce39d10639859db1bc6506e87dc538",
         "signature": "77c3b86f0242e572fa8ee8df78c974763942ab72e00cc17ec01b78802da4c8d9"
       },
       "../src/utils/otp.service.ts": {
-        "version": "600dc773aa5be0fd33b18b213f20059ca5ca83da86abf5663bf15c5ad24744ee",
+        "version": "e23198876bf9967ae2643b0136022da2b526b52d612e4c6de474ad34b844f50e",
         "signature": "7715bff91041e58f5d1ee79913a2a85e822c213e3bcc2c01bf95fd35470657c1"
       },
       "../src/users/users.controller.ts": {
-        "version": "c246a2333efe669d580d70777e8ece64527b056d98effbfe7c195a762462db66",
+        "version": "a315872fec11b30efc2339d00ec4febe087c7fc30af1d713911188d2fdd66891",
         "signature": "8da9dfd69283d28bfd8bd70658007d101f1402384ecf42ccd815b89952d1d135"
       },
       "../src/users/users.module.ts": {
-        "version": "b447429d930e0ce12e27210ae376b3c22ae8eaed7c0583865a0ae245688fc4b9",
+        "version": "27f9260e39592c978f4ec1095d43e532b7153f0985014824f6b8c8ed6c6dfc9a",
         "signature": "12dec6c99bd8d11167fa91a31e737abbbf8c9cc789c151a25a9a1d13f328175c"
       },
       "../src/settings/settings.service.ts": {
-        "version": "d54c3dcc4c4ddd0924796ed78392ab9ead6dd6e4d1991ece749024fd34f485f6",
+        "version": "22abd7ed0e83109da2064c92560e38413bd375b04262260e31e9094991d1b62c",
         "signature": "6ffc4d0a11da407ca17ee933e1f4d859bd37a60989cfd2b301b51301ffaacaf0"
       },
       "../src/utils/currency.service.ts": {
-        "version": "90d143ec8e8e0dea8ed266d1bebd7759029d53ac055c1fcd18893e63a00a6903",
+        "version": "908e37246f91874aa60e9b9ee57761a8071c517fdc78b5860b9542d6bc926b79",
         "signature": "537ba80630003aaf0791d6fad0ff298a93027f9774d6062b3a1721603dae7418"
       },
       "../src/settings/settings.controller.ts": {
-        "version": "b6e45993ad240ccdf6caf14ed98dc18270683718708b3c0cb11b64c0aba9e03f",
+        "version": "f51682ec9069aafb8066e9153c5770ff00cc3036586b5d077530121c62fb6005",
         "signature": "a0dc07834ddd6d8929477682d67f4d5a37ecbdbefc7b913d7e3819253cb080fa"
       },
       "../src/settings/settings.module.ts": {
-        "version": "723a187d8258f5a03ca260d40119393911e1d35c38c6041c7dda77580ed23215",
+        "version": "3758c83df4b97b4b10d0f9439a317e52231180f95bd83d69793051fdd3b5f50f",
         "signature": "59903771098cae14ad1e96b6eba8e26d4eb3a2691b86aa44aa9b339d9c6cc017"
       },
       "../src/address/address.service.ts": {
-        "version": "b8fb2f138a5f27ac36e57e3fea12daa84f1d629df10b3144a2ab4775a0e389c3",
+        "version": "84c50342dcd83a2bf3c69e64a47983b17a91124c5d884f60a6b17dd492258138",
         "signature": "3330672984afccae074f47c6347a6954cd3e7da6f914b8c72dea71ed6564ce17"
       },
       "../src/address/address.controller.ts": {
-        "version": "7191bae913b46f23827eaf6b48f170def0b2e947069a4145420fd127db7b8c6f",
+        "version": "e51677fd7f66b57f9cf857b325b59f5796de2d04bc631b85960141ffeeac6c08",
         "signature": "4840a447824907ac463cbd1ff6f969db9f7f2724f8afb74b1612ef0dcfd0532d"
       },
       "../src/address/address.module.ts": {
-        "version": "a01a94b21aac4226ca86f1a085d39bdabd7909df7748e010ba6f429f1f780bfa",
+        "version": "d6e804d099611a2b9c4c82262e94e7d1d2a6b9429b6563de0d62547911fc2062",
         "signature": "6aa7d0b617836ab60b6ee6cb286135bfa5de5e88350fa70fa8c148222aad6d0b"
       },
       "../src/coupons/coupons.service.ts": {
-        "version": "74d3b126cb1e5e035564a98318cd2733bbad761b29be2eb6282a5979d25a2a13",
+        "version": "4e886aec934d9c7ce96f525e40252a31a724fb9a9d0fe9f50c53b75e610806a3",
         "signature": "c373cb476b3dff0ff58e43581748e3c26457fb473822f91232b3fa44f7cde029"
       },
       "../src/coupons/coupons.controller.ts": {
-        "version": "5f4371ab5a28a241815e97d7857372bd6fbd72f773f8872dd4dbc8512f92c469",
+        "version": "9c89204b13fdc8da69d7bf0d542ffa2c7c6560994f4e5d144d4305637a422d43",
         "signature": "3edb360630e636581ec319d6e00982cbf88c987272db7330318d385459608867"
       },
       "../src/coupons/coupons.module.ts": {
-        "version": "716365cb111fee6e48520b016f5756d3a9d33eba6c1004d7c22498badcef7538",
+        "version": "36054d699668ff38841c10d16045d73190d73f41d19143f0ebec9152fd1f2e0c",
         "signature": "4f92ce96f65d2321846bbfc3d1c230be86bc57c16fea82120001f4556427176d"
       },
       "../src/cart/cart.service.ts": {
-        "version": "b15c17bc39e02ebf3fda6ea9c27289705777328955e287e276d6f675de060bd3",
+        "version": "25f04d096fae60f10aa90846552b865a7ea19b0ecab16c25615cb2929a4b4dbf",
         "signature": "50cc4b5162a580329db4085e5749d1ac3093fdc58fb377859445f29bd5b1eef9"
       },
       "../src/products/products.service.ts": {
-        "version": "c8b0c1e11cb61e5522b31ab3446b9aa94847bcc3d34c670c89cd4f2def6da87f",
+        "version": "769331398240085d87feb8988019b799f139e4c8cd22abd5dcdbccff064e2a33",
         "signature": "389957dfe2638151da0acdffa49966e5a8d283816604c3aa43f21b6c78a0c2b8"
       },
       "../src/cart/cart.controller.ts": {
-        "version": "27be2919a9d8c08024f768e48f5596cc3b3558b394981384770e4abf21fb3631",
+        "version": "46fc31646a12dba7564b089569d48fc3d3ec046f28f511ee09f59b83f0c64b91",
         "signature": "2ff5818e4e5c28b1941ea7904ac301c68bcbde7833d200199d3bbd06dd41c6dc"
       },
       "../src/cart/cart.module.ts": {
-        "version": "db9a7813890c4d8a76c51659f3ebb20a9353a1164369b614171bac77d028a7ed",
+        "version": "d7317b0942f02f868bcb505dd6bc18234944cca6e1a0de58010532a116cb85f3",
         "signature": "b30e893d53ff4769ba0a10f92f473954c0420e1fb961b2b8bea8bde70455213b"
       },
       "../node_modules/@nestjs/platform-express/interfaces/serve-static-options.interface.d.ts": {
@@ -2158,151 +2158,151 @@
         "signature": "e3cd60be3c4f95c43420be67eaa21637585b7c1a8129f9b39983bbd294f9513c"
       },
       "../src/banner/banner.service.ts": {
-        "version": "c108703102db7e77691f17d5c9cf067149252a3ed9088dda0acd992b952dba93",
+        "version": "66075299b9468aa2dd81e61b1082cbf1715d53e395d68e8f3c8bdbbc66dd0d68",
         "signature": "b822fa76d31e0180d714e3ba58a70da325e3086dd5827593bdaaefa9beef3bd6"
       },
       "../src/categories/categories.service.ts": {
-        "version": "17d4e1f8eb446e64dde9814af6dd148a8c134534aeaebf7e2856b33199a6e097",
+        "version": "8cdcc080f810854aae29144f63f2aecee5d2b1175deb34329947beda819d92b8",
         "signature": "066aba802d18cc24f80ba502725060235f86ce5e5c7bc6172fa3281f79d13565"
       },
       "../src/banner/banner.controller.ts": {
-        "version": "a9554b3a0762adf1d5653cef1f08d1029deaab95af043ecd0d203fb38c32c4ea",
+        "version": "eccc25fd6b567ecc40e2c9311ef5ee9d703a5e87edff8d3bcd8290e76e6c3309",
         "signature": "d63fd2d1c727129002e3f40749cb2e102c7c2ce2bc2164f0c14b2f29cf382251"
       },
       "../src/banner/banner.module.ts": {
-        "version": "ec420e57f91ff991be1fd9c661785ecb3ad00fa67698e27327d832fa56c86e40",
+        "version": "127d8963331cf1415400743d003235bc315ae06f7059eacb1bd6a5f5de0dc0df",
         "signature": "d14997e08c84082048c7bd34f7c0f8728782386aa5791e67ac02a79d3432a603"
       },
       "../src/deals/deals.service.ts": {
-        "version": "9809c495153572f7644b57c489c43978759336127ca9ade2aa4d094acb816e5f",
+        "version": "628404bf350fd5e1bc8560b9ffc8de22dc9a1c14f114683b48004737d38484f6",
         "signature": "d7b96fc0a1fa4895cb1ddc42c876259cba0516b540e71ca4801886ba774b9630"
       },
       "../src/deals/deals.controller.ts": {
-        "version": "681f9b3cf4e3edfe172f9ee766fe8205290380d89d4ede734af196f5397836f3",
+        "version": "a33c2318689656782fbb00357363edc5944b1a30feb9ad0cbc0fac1be05437da",
         "signature": "deb3d2abdee551041b6868d5a9aed2756291fedfb122a1584a01b54629fb8e59"
       },
       "../src/deals/deals.module.ts": {
-        "version": "46f4fedb214e074c42b3d751c5b625e4b3e6c47723542ae839fee3aa2de13f66",
+        "version": "5fecd5980045393eb2f2ab3aece17894374dbbb5a8cf7bd8b3ac655e0d556b0e",
         "signature": "6ab7791e53f818f047270378ad21a00605d2ae964e1ce8434c5a1484f2de4e3c"
       },
       "../src/favourites/favourites.service.ts": {
-        "version": "cd8f5fbeb16201b42c7bf7db1b7b5c075bbaf52b187df31867347ef78c792274",
+        "version": "68e7da1320c40838e1e23217a706bbf576ff39f568340828892926aea6e95b48",
         "signature": "b836c0674608fa6cfcaebfd1ace0fdcc1a34e7e263989863419c36f084ef98ea"
       },
       "../src/favourites/favourites.controller.ts": {
-        "version": "39f194171792701c2a88eedf911dc27a2be46587528b67b171807b1252d22c58",
+        "version": "085c3ec14f035d59de8cfd636dcb5af5288819287dfc14c0e1595c3be34762f6",
         "signature": "3dd7b2c3926407b12d3a6633eb063976656628aed369480c53f28079761afb51"
       },
       "../src/favourites/favourites.module.ts": {
-        "version": "069b882af239caaf3a389a0e1058feee1cf6bd90374956df7c4c088e9922def7",
+        "version": "9e50b4e7189d6dbf15c13a9a34ff63445be348d92b51b3636700ce18d4c53dc9",
         "signature": "3179ea7e4bb490c12d06cf1cdb61cb29d609bb78bfdf494a308a1a9e06d4aa44"
       },
       "../src/rating/rating.service.ts": {
-        "version": "6453562e0d0f52d1ab8133c853ac2d3047dfe269309f04ae19be8904e41fbe38",
+        "version": "266fb3e6e6fc7edaf626c2379d7afc3d789cce13848429c94dc9575c285538fa",
         "signature": "30db1cd350213c3bfdef4affed8e9b76d49514fdf5d8b35bbfa4758adba4a8df"
       },
       "../src/rating/rating.controller.ts": {
-        "version": "b58e2e4da1e893159702977ed9467d2302d9e0bcd71d677b1e15e0992222ef49",
+        "version": "360de60edd69214bda3144043d74665052a4f644080c78a54229d522d8797007",
         "signature": "a97cd9557cc9a8050b58511298b5f9100d3e09500848fc7a7d8da0886ab22bad"
       },
       "../src/rating/rating.module.ts": {
-        "version": "b6246d5dd564b46997f1bcd363b2f2f28d8cedee509a36c1404692a963c732ab",
+        "version": "e23237bf14d4386cfdb3ca9c848182429ca7973c94d9aee2c91f7d57e92d549b",
         "signature": "62ca10354d08c20110d2518f7ef38961d0a7baffb1e92f37173a663939fcb008"
       },
       "../src/sub-categories/sub-categories.service.ts": {
-        "version": "b653247a2c6ccf36237f1328248f735b3a5f468af60d281f29295e91d0b99e54",
+        "version": "3644ad0919002d09af622b840a9bd90a11a9f5ed38a7d82f2d629c6a024cbad1",
         "signature": "40084b91c3027d4bfb9cbbdd7fcafe4fab46574b43934f148293dac10907429c"
       },
       "../src/utils/excel.service.ts": {
-        "version": "6ac230cbfacf924dc454c0af51c89328efa1626f078a977e3e7b399b47db98f7",
+        "version": "5eb88c95e5a04d00bb95879bf83ceebfa1d59811c7271856f35af7996f5fdf39",
         "signature": "f289c4aa75758f13ee010c6a5f784a0c6e47ef41de213794a6acd15e21cb2404"
       },
       "../src/product-out-of-stock/product-out-of-stock.service.ts": {
-        "version": "d31c07c0167a2d2b1e8449c0967c29a7101a1bf391d83ec0d7576cc279b235be",
+        "version": "b163d866aa1d8dde4a4336585c506f19634c0861627e0c87dcbeb9670e962a4f",
         "signature": "44cca386462705d6bbba7b5eb4fe5fe760e139ac466e43d71ec1cba5ec831dce"
       },
       "../src/products/products.controller.ts": {
-        "version": "007246dda6b5cbb3c47a1420b87c89ea448ddd6cf8181f528daf33355eba2054",
+        "version": "603d237b506b55d852f9bb774685d3c3a4b3b9f4caffd1d67639b8fb81b4e11e",
         "signature": "6fb4df569610a7b7a56132f2b0862413f214c99204633d5932d6a2f0c9217b8a"
       },
       "../src/product-out-of-stock/product-out-of-stock.controller.ts": {
-        "version": "ed69a230199ff21befc1d73f21ea41652a0aaa7914095671edf36e9d4419f456",
+        "version": "d758716653ea44616c04885e44b478a4a2066f16e5bbcd4238d4370c9594f7eb",
         "signature": "03e33641d88594fd86709be3d5e0a52c3c2e1cb3b60af5606c7d500c00d18d59"
       },
       "../src/product-out-of-stock/product-out-of-stock.module.ts": {
-        "version": "20f9d76da6505d9557ea4ea75e8cb1472a9d186da55b2949d334c06e590141bd",
+        "version": "a10a3ba91b16eea1a4b9e46012a962a8651d52c80d9c2eddfad54a581e09b1c7",
         "signature": "afc2e10edc25dc7859ec3731695074e2e0fa2245c9cc45a14a4d0cb43f7b4cf3"
       },
       "../src/products/products.module.ts": {
-        "version": "0fda59ad4283fe1aff82516b51245671435c45fb781fe382b2ff890f75d6b399",
+        "version": "255046b3ecaa3ec14347ce9b6b8be0ec3ab5ec7df3aafbc94d2fe022f88c94c4",
         "signature": "775682a30e63deb0ec3da028a66cf4cd3ae032d1b7d009697c8b9329465ef7f5"
       },
       "../src/sub-categories/sub-categories.controller.ts": {
-        "version": "0dbcc0977493c601ddf4e74a96788544a1308610d19a89829dba77b00cdc31a7",
+        "version": "73a879069a5defc07d0da60131c06b5291b4facf05186cef0dbea699a6c2c566",
         "signature": "6db3c0aac33d8815fc3fad4d3ef26e74ea5c57f3364e5153c4ff0ee47c18e201"
       },
       "../src/sub-categories/sub-categories.module.ts": {
-        "version": "06bf576a9d2f85562cb9874f59999f196fe25ef672a8cd85a554e8bb0b00ae62",
+        "version": "6429ca26eee64562b3d267d17b9a50be384a2dd2e34c2e87c3ebf3940a7b6c9c",
         "signature": "9dc1dd0896a31313cc1d878515cc3013e32ee712c21a255a22957dcad3b5b6f7"
       },
       "../src/categories/categories.controller.ts": {
-        "version": "76be56e44dfce58e6c084cbe43f6af59e79e2b25894042b25b23a5ff87cafcc2",
+        "version": "c8a5bf81f1c0848bf207c336028a36f627b81bdb9c160d8803a030b7a8e951d8",
         "signature": "6ab3c54df6d46951275434232a1a8cc6027fd8418e2f167289c73ed9957641e6"
       },
       "../src/categories/categories.module.ts": {
-        "version": "21672a4adf73f43d3cd9caa4997322f8f4d60195d6c1dcb52f32e9e48f2d38f0",
+        "version": "fcc9a7da440fb356062a8c941e6f8c88200739cee30dd389c2e272f75600b2c9",
         "signature": "7ea49da0e0c64921a5a341078c00e86a70fa6e0e4585e6492b0a81423e5e03c8"
       },
       "../src/notifications/notifications.service.ts": {
-        "version": "f86aaa077990ba0bf1396ffcbcd42d6a1a105db3fa0565d9934a428fa2071226",
+        "version": "e71e0ff729ee61fe8d9e97188c4a438cf282f11c1859b6980ac6f65c3fc9a879",
         "signature": "283f9a55d6fb1af2038a972a28d33de1deafdb449a09cbbab568f0d5f0d8984f"
       },
       "../src/utils/push.service.ts": {
-        "version": "deb90cf6c5ca46487f203f6487e9ca2fe7d0149240e5a56c865e1ebdede3027d",
+        "version": "542aa5fe28c6eb7e1fe4ec5f522613af655e4182662883de6ae45cb9c76053a9",
         "signature": "6958b4dc300dac14de83feda07eb4dc9d335c46f5037a9a7f493c3ed01f3744a"
       },
       "../src/notifications/notifications.controller.ts": {
-        "version": "22624b66394325b93103a64054c2d4333b32340df7a192c0f415826b59555970",
+        "version": "895ddb80891e77df66ac52d2f93c65ffdfd6e5c8d0721cf2d0a78a93e338b7a9",
         "signature": "0275a38bf040007c9fbb0501d265ba9a88b37a9da950dabddb4e96c5b8dc891b"
       },
       "../src/notifications/notifications.module.ts": {
-        "version": "912990ac9045884dba7d3f96c304cbb110843fd9b7de08a899a34a8eb6cb6879",
+        "version": "48b8d4a76e966b82e04f6a43f8f7c15d5db9ffa98b704d6868b5ce7af69cfdeb",
         "signature": "f1c20f5c4a69d1680f3ac0a8838815a77f9606037c736a8c5de0a8eb2be9b188"
       },
       "../src/sequence/sequence.service.ts": {
-        "version": "cff8e500c312da971cbda16fd2bb057b26fff76b0cdbdca7e8766e4f665e2e9b",
+        "version": "a6ac4abfa1bbfb93987e3ae6439f4b282bba8ec6f488fce8d9cfdc12bc108f55",
         "signature": "127f4978956382295eba259eee012158749e986db8e34b350b7d73bd682b084d"
       },
       "../src/sequence/sequence.module.ts": {
-        "version": "903fad6c60a969c664ac8a3534e46762128a8190174342c3145810a9d031c1d0",
+        "version": "71e21335af85cc1f59b9bdf928daef41b54751b8801b0abbc5225fe1fdc4bcbc",
         "signature": "72a82b7ebd02c2df7f648cb4aea1e95ec238dcb21e1ddf7653d2b99c9e761919"
       },
       "../src/wallet/wallet.service.ts": {
-        "version": "85d69a2f1ef22d853215e3fb72064bcbef6e22d594c01e2e63c2015e47b65aa2",
+        "version": "781552b6ebc640997cdc6ac2ea3fb8efe00c8e658a8e8df4c010c33eafa543af",
         "signature": "2708a12a548a5da3d8004884ad41b8720edc750f5d05c3ed303b631c1f675de8"
       },
       "../src/wallet/wallet.controller.ts": {
-        "version": "7aec74efe624ebbdd82d94f99720a28a761a6298ea061c98ee41ad50a9bc768a",
+        "version": "3f22ac959a39549853760195c1414f1253240b3bc2379320011da63e3003faca",
         "signature": "cc6186f4113bf4d2ec2e199a58198f9e1bfb9a5afd136e8e94f00097e3281847"
       },
       "../src/wallet/wallet.module.ts": {
-        "version": "c6d0e0731f96226a0d37c902396db6735597ac28445a7fceabd38a9f9a5a6b67",
+        "version": "05f4108888292758ba0bb9cd3b3f981373ae263e95e4ea94a92ad3afbfd14155",
         "signature": "a04fd37dbf7492462dd98735abd9cfa6c4d5511abceb5ca30f34afd13de0970d"
       },
       "../src/business/business.service.ts": {
-        "version": "ceddec1c9e7f5840237823cc0d742e2781250ef781441f7d1a0aac59f82ccd28",
+        "version": "7b2a480bdb7993e19278b45ba9db6d340008e2eef8a1c1b8f8b3304242beecac",
         "signature": "94bd5a4fa466afecfa33154e365a1410ba8c1cb3aa9c014c08d8037d1b8d3dd4"
       },
       "../src/business/business.controller.ts": {
-        "version": "785381578092c5953efdce79e2189f56a491ea4ecadb67a7e77e140f132c9e92",
+        "version": "ab718ce2ba6856d003c2906b7e8b6570651b8f352704783c01b87be6483b904f",
         "signature": "8dcba226e6f96300b742305d1ad570a8c97cfbb07789683d8c3a3c4f5009a88b"
       },
       "../src/business/business.module.ts": {
-        "version": "2dec689e9163d9ad9894e2c07afa76efa3945ad61f3ff34b6bde32d7dc0c7232",
+        "version": "076d8968f2276a11acde7bbe3eb622d442b9902edbdf1663c4ad82eae7d3e12f",
         "signature": "53d41faefb29c6d43b76e8bdae0c55fb4a56cd35c6b0f8190bffad440b988fda"
       },
       "../src/order/order.service.ts": {
-        "version": "beed49c33106c7def23690621286599316e025597cbde43f5ab9b9c02403f19e",
+        "version": "79e11726c20afab4224cdb345e9a5b753657ece08eac535d00449e5eb8c82cb5",
         "signature": "50547dfa12677b3a566899e4ddcda144ecf064a1c969bfbc3bd91a6c97f4f276"
       },
       "../node_modules/@types/stripe/index.d.ts": {
@@ -2310,63 +2310,63 @@
         "signature": "f96eeee871116876f56f4815f7705306cdaf2c38e2df2878e69dd668850a4905"
       },
       "../src/utils/stripe.service.ts": {
-        "version": "5dc9df9425582560987e2b80768219fa7d493930118ee8c6fb502ed999f91fa9",
+        "version": "2f38d5744d266698e69716ab40b8c7e13eab9994ad639fb9c5585e4a968ff1d9",
         "signature": "0dbbfe09f623b00d8ccec7d09293746c193487096dc1d80c3b049c5c8b83d525"
       },
       "../src/delivery-boy-ratings/delivery-boy-ratings.service.ts": {
-        "version": "b05727602e8f6cc2fb3ee5160c50231bb666becd3a947796717fb81fb203fe93",
+        "version": "abf92c217a205148203ab1a110199d417aa37155efc284cbe3b0fa4fcfbd1a0c",
         "signature": "c33e56993cbefbebfd7ca29e94ae6244f935c39b21ad9be44ded66bcde73491e"
       },
       "../src/order/order.controller.ts": {
-        "version": "c03200893898893523266e7857b7b280ed75d16a0760d1597029d4fda697fddf",
+        "version": "d4525632ba55d84ad36e82cbc484935847dfac00d76e2f2bcfcde98982529955",
         "signature": "dffbb2876dde9ce21a23a073d5e0f5945db464bbc574ab5faa2e0639701458c1"
       },
       "../src/delivery-boy-ratings/delivery-boy-ratings.controller.ts": {
-        "version": "c9f6fcff60588d481d73f7fc802286ab824b18008aa5d71a0a196d15fc3fd79e",
+        "version": "900aaaa7ddc5f123db64c37aeae47776e371b527a7e871293347d3131bb0d84c",
         "signature": "25c913c549587247dad25851f2c032e7078eafc5d7e1ada95e6f260d39cdf3cf"
       },
       "../src/delivery-boy-ratings/delivery-boy-ratings.module.ts": {
-        "version": "82d525d23236fe5ba8a8b7873ba4f137c07bea6f098a282c0bd57e5cae45ad3e",
+        "version": "30a2821f19b27bc34148d2f76e172da18faef6c77abfd1f0c12bee9248201ead",
         "signature": "027a2869b8492356151e5b425c2d3c46b356ad5b5e066a3c8521e53ebfa4ba23"
       },
       "../src/order/order.module.ts": {
-        "version": "1fd7ad245d1c41a08323ef72ecd06a6613e5a863fec3efb086a8f10470ac3643",
+        "version": "62cc5eec9508d354abb374b460e7a2356e17045a081c058590480f46f89eb097",
         "signature": "03b8112aa80d4314c18f98dc39f72e0653135546d00d8c9bcd5e21a461e5218d"
       },
       "../src/chat/chat.controller.ts": {
-        "version": "acfc1e0bd93663a2d3c827631ac52488809182362dafe0536895d2d66f6b01dd",
+        "version": "c7ff4f915273f5fd5ded44e013935c72a73d873d6bad9b233c9e598da0458261",
         "signature": "07bc7386267ff7cbecec0874b321bc0b4f7bf3cf991db52b2c1d107a86a2f0e5"
       },
       "../src/chat/chat.module.ts": {
-        "version": "fb85a78d5fac3d9115c2dcb6edcdd4c11deb3d2b4f8907ed95c61854fe2fb7be",
+        "version": "b346194f61237f9caaad7be6596925335a79bc2cd8b5f909207687a1a36c198b",
         "signature": "22ab5f26ff2aa4cf463102b34ea2612bbc72dda2e516552cdd44a23ce806fa74"
       },
       "../src/language/language.controller.ts": {
-        "version": "4030e8eee4b95266b101f55b490b38fbd6c3822d50ad8dbb85a22521474f3cdd",
+        "version": "da725b0a63f8b893ea39b706448c18a8bbf17318172387371d7fc31721eecbe0",
         "signature": "96d17f3ed7ba895494a2251926aed9a4fcacfcd9c41f24f370612da28c548860"
       },
       "../src/language/language.module.ts": {
-        "version": "a9cadcfc4703ff9d60c32b3d9fd40eb9db5961f2ebc005f18bf449a0cab51fd6",
+        "version": "58bf642d03fb99d6d38355d7c9bc5d0d2a055574d7e51c28c5d0802d1961d538",
         "signature": "82b7bace1476248a79ed6ab36eb091a2cefc3ffc6b111cf303a24ed43aabafae"
       },
       "../src/request.interceptor.ts": {
-        "version": "2651fd7595b8c5d1c475cc3d3b0f58b94cec861c4469ac69cf098e5b3ea9af78",
+        "version": "9d7f4dd95ef00bb7721f9d03297ce23351a8e496df45856699853c0a92ee26ee",
         "signature": "31ba47a896144688f40dd2b8c03c60ce42aa497b72cddb4910036d90deac705e"
       },
       "../src/exceptions.filter.ts": {
-        "version": "7e6a7c2f66d4d98cf75beb0423a6280a8e5a52da771081009e415b136e74bc5a",
+        "version": "8ff1c4f29e8cd8f7c8d17896cefcbbfa6e0bcf28e61ac64cf9123da2abc6f559",
         "signature": "4e3b74e00a78d173aa41499ee1b1f515849d01f49edc8dc6c1e22497b3eac4af"
       },
       "../src/pages/pages.service.ts": {
-        "version": "623e6c84644eb42e7cc6e0a2862128e49e9ed0edcf36bb76168ed925943b95f5",
+        "version": "84ccfc221b3c8ad4d6d5e346713304f117e07a11520c628c5d26e5c0f6f5ffc3",
         "signature": "8cab079cff3b88ad4cb9653871668f6e43f83e5f910e0803a116c93170e90d54"
       },
       "../src/pages/pages.controller.ts": {
-        "version": "72be30c66c58474f373133673e3aa8d8d0ba714b6d59e72e80d3a5f17c11daa1",
+        "version": "579a8da692c4f100dd669d5d0708545e634e7e62680df3e7e37f09f839423c39",
         "signature": "8ff12cfee77c5f1518796f6b9eb6058c908a6c48504a3c72da0609ee3c2f90a4"
       },
       "../src/pages/pages.module.ts": {
-        "version": "9f89b1687b994ea41e1c56bf0cea0897cf4c46b8eaae7a5fa6db2615d7dcef59",
+        "version": "f7489fcf8338c08f488214b061e17cb5b1960c54eaac691db34efc12ddaca49b",
         "signature": "2af012e750b23eb3b577949679a939c039fb31d57eaedad91796a0ceb91bbe2c"
       },
       "../node_modules/dotenv/types/index.d.ts": {
@@ -2374,7 +2374,7 @@
         "signature": "c9ae0b351a07b52f29a28e869d8c7c8d29743bbb5eeddc7c0b5b2a69a2450528"
       },
       "../src/app.module.ts": {
-        "version": "46100cbe66e10bdbe5646ba233f179b3d943983aaae6b0ae8d68fde6fdd99863",
+        "version": "a80cf7a820787e91cffe67ddeacc01b6020b3e318bb81ed34c5396c5725ecde1",
         "signature": "9fc7f7b6ad854404973b8cba8e6d883f758237991968e9a3965d716d46f1da88"
       },
       "../node_modules/@sentry/types/dist/severity.d.ts": {
@@ -2674,7 +2674,7 @@
         "signature": "e4996d6dc27f035b0ab7415b975ea078f683fcb7fd73ec802399a859664f6600"
       },
       "../src/main.ts": {
-        "version": "cf6903b86b5f0205b323ef0c511665e555bbac3fa1a1f2f83f5c353c2dba0c61",
+        "version": "8179d46a6cac2bd999ecea8e8d4d2731fd256cd7b78fe4f935157044ba39bc19",
         "signature": "f761c91419d0a89422a0004ef1a92929dd4d2d5e5c16758654d8b0467d1998c6"
       },
       "../node_modules/@babel/types/lib/index.d.ts": {

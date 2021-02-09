@@ -49,7 +49,7 @@ async function bootstrap() {
         });
         swagger_1.SwaggerModule.setup('/explorer', app, document);
     }
-    const port = process.env.PORT || 3000;
+    const port = process.env.PORT || 3001;
     await app.listen(port);
     console.log(`http://localhost:${port}/explorer/#/`);
 }
